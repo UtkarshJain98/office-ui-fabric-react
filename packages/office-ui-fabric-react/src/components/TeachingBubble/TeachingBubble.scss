@@ -118,6 +118,7 @@
   top: 0;
   color: $ms-color-white;
   font-size: $ms-icon-size-s;
+  background-color: $ms-color-themePrimary;
 }
 
 .footer {
@@ -192,7 +193,7 @@
 
   &:hover {
     background-color: $ms-color-themeDarkAlt;
-    border-color: $ms-color-white;
+    border-color: $ms-color-blue;
   }
 
   &:focus {
